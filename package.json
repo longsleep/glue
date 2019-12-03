@@ -1,9 +1,9 @@
 {
-  "name": "glue",
+  "name": "@longsleep/glue",
   "description": "Glue Javascript library",
   "author": "Kopano b.v. <info@kopano.com>",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "main": "umd/glue.js",
   "types": "umd/src/index.d.ts",
   "files": [
